@@ -146,7 +146,7 @@ This repository has been created to demonstrate practical Agile Project Manageme
 
 Technical Project Manager
 
-GitHub: 
+GitHub: https://github.com/kaushal1770
 
 LinkedIn: https://www.linkedin.com/in/kaushal-dwivedi-bb1376329/
 
