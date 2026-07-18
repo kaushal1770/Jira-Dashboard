@@ -148,8 +148,8 @@ This repository has been created to demonstrate practical Agile Project Manageme
 
 Technical Project Manager
 
-GitHub: https://github.com/yourusername
+GitHub: 
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: linkedin.com/in/kaushal-dwivedi-bb1376329
 
-Email: your-email@example.com
+Email: dwivedikaushal75@gmail.com
