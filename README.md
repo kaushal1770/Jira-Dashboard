@@ -53,7 +53,6 @@ I managed the project using Agile Scrum practices and Jira while coordinating pr
 | Sprint 5 | Testing & Deployment |
 | Sprint 6 | Final Release & Project Closure |
 
----
 
 # Project Features
 
@@ -92,7 +91,6 @@ This repository includes the following project management artifacts:
 - Release Plan
 - Project Status Reports
 - Jira Board Screenshots
-- 
 
 # Tools & Technologies
 
@@ -150,6 +148,6 @@ Technical Project Manager
 
 GitHub: 
 
-LinkedIn: linkedin.com/in/kaushal-dwivedi-bb1376329
+LinkedIn: https://www.linkedin.com/in/kaushal-dwivedi-bb1376329/
 
 Email: dwivedikaushal75@gmail.com
